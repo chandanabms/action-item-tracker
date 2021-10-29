@@ -1,0 +1,7 @@
+#Generate a multiplication or a division table based on user input
+m = input("enter the multiplication number:")
+n = input("enter the number :")
+for i in range(1,10):
+	i=int(m)*int(n
+)
+	i+=i
